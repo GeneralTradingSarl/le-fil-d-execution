@@ -1,3 +1,5 @@
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/generaltradingsarl/le-fil-d-execution)](https://m8ven.ai/mcp/generaltradingsarl/le-fil-d-execution)
 # Le Fil d'Exécution
 
 **Concevoir, exploiter et gouverner des workflows automatisés avec n8n.**
